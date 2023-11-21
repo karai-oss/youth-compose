@@ -1,2 +1,1 @@
-# youth-compose
-阳光青年compose版本
+# 目前等待后端接口开发，Android端暂未开发
